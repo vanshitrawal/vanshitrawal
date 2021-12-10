@@ -1,16 +1,10 @@
-### Hey, I'm Vanshit! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![Profile Banner](https://raw.githubusercontent.com/vanshitrawal/vanshitrawal/master/githubbanner.png)
 
-## Basic Overview
-- 👀 I’m interested in Graphic Designing
-- 🌱 I’m currently learning Media & Communication
-- 💞️ I’m looking to collaborate with other developers in the community
+I'm a college student living in India. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possibly JS in the future).
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshitrawal&count_private=true&include_all_commits=true&theme=radical)
+- 👀 I’m interested in Graphic Designing.
+- 🌱 I’m currently learning Media & Communication.
+- 🔭 I'm currently working on creating webpages and learning how to progam.
+- 💞️ I’m looking to collaborate with other developers in the community.
 
-## Connect with me:
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
-[website]: https://google.com/
-[linkedin]: https://www.linkedin.com/
+![Vanshit's Github Stats](https://github-readme-stats.vercel.app/api?username=vanshitrawal&count_private=true&include_all_commits=true&theme=radical)
