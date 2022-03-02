@@ -6,5 +6,3 @@ I'm a college student living in India. I'm learning how to code. I love making a
 - 🌱 I’m currently learning Media & Communication.
 - 🔭 I'm currently working on creating webpages and learning how to progam.
 - 💞️ I’m looking to collaborate with other developers in the community.
-
-![Vanshit's Github Stats](https://github-readme-stats.vercel.app/api?username=vanshitrawal&count_private=true&include_all_commits=true&theme=radical)
